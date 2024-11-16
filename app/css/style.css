@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+/* Additional styles */
+@import "additional-styles/utility-patterns.css";
+@import "additional-styles/theme.css";
+@import "tailwindcss/utilities";
+
+input,
+textarea {
+  background-color: rgb(3 7 18 / var(--tw-bg-opacity)) !important;
+  border-radius: 1rem !important;
+  border: 0.5px solid rgb(59 130 246 / 0.5) !important;
+  width: 50% !important;
+}
