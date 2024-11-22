@@ -12,7 +12,7 @@ export default function Workflows() {
   const projects = [
     {
       id: "zombie-park",
-      title: "Zombie Park",
+      title: "Zombie Park Teaser",
       description:
         "“Zombie Park” is the 3rd short film written and directed by Vivek Nagose after completing a short duration Film Direction Course from FTII, Pune. Awarded with Best Direction in fiction category in 13th Pune Short Film Festival. This project has 50 technical crews.",
       image: "https://vnfassets.s3.ap-south-1.amazonaws.com/zombie.jpg",
